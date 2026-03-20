@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaveesha
 
-💻 **Backend Developer | MERN Stack | Python Enthusiast**
+💻 **Software Engineer | MERN Stack | Python Enthusiast**
 🚀 Building scalable APIs, optimizing performance, and designing reliable backend systems
 
 ---
