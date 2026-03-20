@@ -25,7 +25,7 @@ Strong interest in **system design, AI-driven platforms, and high performance ba
 * Collaborated with **frontend, DevOps, and data teams** to deliver end-to-end solutions
 * Led **debugging, performance tuning, and API testing**, improving overall system stability
 
-**Tech:** FastAPI, Node.js, MongoDB
+**Tech:** Node.js, FastAPI, MongoDB
 
 ---
 
@@ -77,7 +77,7 @@ Strong interest in **system design, AI-driven platforms, and high performance ba
 
 * Scalable API design & backend architecture
 * Performance optimization & database query tuning
-* Real-world problem solving with large datasets
+* Real world problem solving with large datasets
 * Clean, maintainable, and production-ready code
 
 ---
