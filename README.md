@@ -16,7 +16,7 @@ Strong interest in **system design, AI-driven platforms, and high performance ba
 
 ## 💼 Experience
 
-### 🏡 AI-Driven Real Estate Platform (PropAI)
+### 🏡 AI-Driven Real Estate Platform ([PropAI](https://business.prop-ai.com/))
 
 * Built and maintained **scalable backend APIs** for a production platform serving thousands of daily users
 * Developed **RESTful services using FastAPI and Node.js** for AI-driven workflows and data processing
