@@ -97,5 +97,3 @@ Strong interest in **system design, AI-driven platforms, and high performance ba
 💼 **LinkedIn:** https://www.linkedin.com/in/kaveesha-nethmi-abeynayake-562221191/
 
 ---
-
-⭐ *“Focused on building backend systems that are scalable, efficient, and production-ready.”*
