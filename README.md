@@ -1,54 +1,89 @@
-# 👋 Hi, I'm Kaveesha
+# 👋 Hi, I'm Kaveesha Abeynayake
 
-💻 **Software Engineer | MERN Stack | Python Enthusiast**
-🚀 Building scalable APIs, optimizing performance, and designing reliable backend systems
+💻 **Backend focused Software Engineer | AI Engineer**
+🚀 Building scalable backend systems, AI-powered applications, and intelligent APIs.
 
 ---
 
 ## 🧠 Professional Summary
 
-Backend focused software engineer with **3 years of experience** building and optimizing production-grade systems.
-Experienced in designing **scalable APIs, handling large datasets and improving system performance** in real world applications.
+Backend-focused Software Engineer with **3 years of production experience** building scalable APIs, optimizing databases, and developing reliable backend systems.
 
-Strong interest in **system design, AI-driven platforms, and high performance backend architectures**.
+Currently transitioning into **AI Engineering**, building real-world applications using **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), vector databases, embeddings, FastAPI, and OpenAI APIs**.
+
+Passionate about backend architecture, AI-powered systems, and solving real-world problems with modern technologies.
 
 ---
 
 ## 💼 Experience
 
-### 🏡 AI-Driven Real Estate Platform ([PropAI](https://business.prop-ai.com/))
+### 🏡 AI-Driven Real Estate Platform (PropAI)
 
-* Built and maintained **scalable backend APIs** for a production platform serving thousands of daily users
-* Developed **RESTful services using FastAPI and Node.js** for AI-driven workflows and data processing
-* Optimized MongoDB queries across **7.5M+ records**, significantly reducing latency and improving reliability
-* Implemented **JWT authentication and WebSocket-based real-time features**
-* Collaborated with **frontend, DevOps, and data teams** to deliver end-to-end solutions
-* Led **debugging, performance tuning, and API testing**, improving overall system stability
+- Built and maintained **scalable backend APIs** for a production platform serving thousands of daily users
+- Developed **RESTful services using FastAPI and Node.js** for AI-driven workflows and data processing
+- Optimized MongoDB queries across **7.5M+ property records**, significantly improving performance
+- Implemented **JWT authentication** and **WebSocket-based real-time features**
+- Collaborated with frontend, DevOps, QA, and data teams to deliver end-to-end solutions
+- Led debugging, performance tuning, and API optimization to improve system reliability
 
-**Tech:** Node.js, FastAPI, MongoDB
+**Tech:** Node.js • FastAPI • MongoDB • React • AWS
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📝 Multi-Backend ToDo Application
+### 🤖 EstateMind AI – Real Estate RAG Assistant
 
-* Designed a system supporting **multiple backend architectures**
-* Implemented:
+An AI-powered property search assistant built using Retrieval-Augmented Generation (RAG).
 
-  * Node.js + MongoDB
-  * Spring Boot + MySQL
-  * Django + PostgreSQL
-* Explored differences in **performance, scalability, and architecture patterns**
+**Features**
+
+- Semantic property search
+- OpenAI Embeddings
+- FAISS Vector Database
+- Context-aware AI responses
+- FastAPI backend
+- Property ingestion pipeline
+
+**Tech:** Python • FastAPI • OpenAI • FAISS • LangChain *(In Progress)*
+
+---
+
+### 💬 AI Chat API
+
+A production-style ChatGPT backend built from scratch.
+
+**Features**
+
+- JWT Authentication
+- Conversation Memory
+- Redis Caching
+- Streaming Responses (SSE)
+- Token Usage Tracking
+- MongoDB Persistence
+- OpenAI Integration
+
+**Tech:** Node.js • Express.js • MongoDB • Redis • OpenAI
 
 ---
 
 ### ⚡ High-Performance Property Filtering System
 
-* Optimized backend queries for **large-scale datasets**
-* Improved response times and reduced timeout issues
+- Optimized backend queries across **7.5M+ property records**
+- Improved API response times and reduced timeout issues
+- Enhanced scalability and backend performance
 
-**Tech:** Node.js, MongoDB Aggregation
+**Tech:** Node.js • MongoDB Aggregation
+
+---
+
+### 📝 Multi-Backend ToDo Application
+
+Designed the same application using multiple backend technologies to compare architecture and performance.
+
+- Node.js + MongoDB
+- Spring Boot + MySQL
+- Django + PostgreSQL
 
 ---
 
@@ -56,44 +91,67 @@ Strong interest in **system design, AI-driven platforms, and high performance ba
 
 ### 💡 Backend
 
-* Node.js (Express.js, TypeScript / JavaScript)
-* Python (FastAPI)
+- Node.js (Express.js)
+- Python (FastAPI)
+- TypeScript
+- JavaScript
+
+### 🤖 AI Engineering
+
+- OpenAI API
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Embeddings
+- FAISS
+- LangChain *(Learning)*
 
 ### 🗄 Databases
 
-* MongoDB
-* MySQL
-* PostgreSQL
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
 
-### ⚙️ Tools & DevOps
+### ⚙️ DevOps & Tools
 
-* Docker
-* Git & GitHub
-* AWS *(currently learning Deeply)*
+- Docker
+- Git & GitHub
+- AWS
+- REST APIs
 
 ---
 
 ## 🔥 Core Strengths
 
-* Scalable API design & backend architecture
-* Performance optimization & database query tuning
-* Real world problem solving with large datasets
-* Clean, maintainable, and production-ready code
+- Scalable API Design
+- Backend Architecture
+- Performance Optimization
+- Database Query Tuning
+- AI-Powered Application Development
+- Production-Ready Software Development
+- Clean & Maintainable Code
 
 ---
 
 ## 📈 What I'm Currently Focused On
 
-* Advanced **system design concepts**
-* Backend performance optimization at scale
-* AI-integrated backend systems 
-* Cloud & DevOps (Docker, AWS)
+- AI Engineering
+- LLM Applications
+- AI Agents
+- Advanced RAG Systems
+- LangGraph
+- Model Context Protocol (MCP)
+- Cloud & DevOps
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [abeynayakekaveesha@gmail.com](mailto:abeynayakekaveesha@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/kaveesha-nethmi-abeynayake-562221191/
+📧 **Email:**  
+abeynayakekaveesha@gmail.com
 
----
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/kaveesha-nethmi-abeynayake-562221191/
+
+⭐ Always open to collaborating on Backend Engineering, AI Engineering, and Open Source projects.
